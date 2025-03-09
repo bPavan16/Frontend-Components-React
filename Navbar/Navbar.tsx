@@ -41,8 +41,8 @@ function Navbar() {
               <MessageSquare className="h-5 w-5 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent">
-              <div className=""> <span className="text-whit  ">Feedback</span>
-                <span className="text-blue-400 ">Hub</span></div>
+              <div className=""> <span className="text-whit  ">Your</span>
+                <span className="text-blue-400 ">Logo</span></div>
             </span>
           </Link>
 
