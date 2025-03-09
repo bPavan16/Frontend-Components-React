@@ -41,4 +41,3 @@ Here's a significantly improved, more stylish sign-up form that uses ShadCn-Ui C
 
 This design transforms the sign-up form into a much more professional and visually appealing experience while maintaining all the original functionality.
 
-Similar code found with 3 license types
